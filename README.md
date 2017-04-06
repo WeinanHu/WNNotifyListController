@@ -30,6 +30,6 @@ it's a convinient controller to show notify.
 }
 ```
 ### it's a default block type
-![image](https://github.com/WeinanHu/WNNotifyListController/blob/master/type_b.gif
+![image](https://raw.githubusercontent.com/WeinanHu/WNNotifyListController/master/type_b.gif)
 ### it's a traditional type
-![image](https://github.com/WeinanHu/WNNotifyListController/blob/master/type_t.gif
+![image](https://raw.githubusercontent.com/WeinanHu/WNNotifyListController/master/type_t.gif)
