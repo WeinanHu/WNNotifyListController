@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="//raw.githubusercontent.com/WeinanHu/WNNotifyListController/master/styles/default.min.css">
-<script src="//raw.githubusercontent.com/WeinanHu/WNNotifyListController/master/highlight.min.js"></script>
+[![Build Status](https://travis-ci.org/isagalaev/highlight.js.svg?branch=master)]
+(https://travis-ci.org/isagalaev/highlight.js)
 # WNNotifyListController
 it's a convinient controller to show notify.
 ## 
