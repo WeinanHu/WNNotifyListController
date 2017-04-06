@@ -28,13 +28,14 @@
     NSDictionary *dict = [NSDictionary dictionaryWithContentsOfFile:path];
     
     util.titleListArray = dict[@"titleArray"];
-    util.detailListArray= dict[@"detailArray"];
+    util.detailListArray = dict[@"detailArray"];
     
     self.window = [[UIWindow alloc]init];
     
     self.window.rootViewController = [[UINavigationController alloc]initWithRootViewController:[[WNNotifyListController alloc]initWithNotifyListInfo:util cellHeight:100 tableSelectBlock:^(NSInteger index) {
         
     }]];
+    
     [self.window makeKeyAndVisible];
 
     // Override point for customization after application launch.

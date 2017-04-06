@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="//raw.githubusercontent.com/WeinanHu/WNNotifyListController/master/styles/default.min.css">
+<script src="//raw.githubusercontent.com/WeinanHu/WNNotifyListController/master/highlight.min.js"></script>
 # WNNotifyListController
 it's a convinient controller to show notify.
 ## 
