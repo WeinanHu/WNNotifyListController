@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.org/isagalaev/highlight.js.svg?branch=master)](https://travis-ci.org/isagalaev/highlight.js)
+
 # WNNotifyListController
 it's a convinient controller to show notify.
 ## 
 
-```
+```Objective-C
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     WNNotifyListUtil *util = [WNNotifyListUtil new];
     WNNotifyListInfo *info = [WNNotifyListInfo new];
